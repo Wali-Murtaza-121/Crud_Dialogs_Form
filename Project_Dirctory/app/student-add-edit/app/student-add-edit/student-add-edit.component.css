@@ -1,0 +1,15 @@
+.content{
+padding-top: 10px;
+}
+.row{
+  display: flex;
+  gap:10px;
+  mat-form-field{
+    width: 100%;
+  }
+}
+.header {
+  background-color:rgb(51, 51, 163);
+  color: white;
+  text-align: center;
+}

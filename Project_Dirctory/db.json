@@ -1,0 +1,43 @@
+{
+  "Students": [
+    {
+      "id": "8527",
+      "firstName": "Muhhamad",
+      "lastName": "Rasheed Bhatti",
+      "email": "walimurtaza284@gmail.com",
+      "dob": "1970-12-31T19:00:00.000Z",
+      "gender": "male",
+      "degree": "LLB",
+      "semester": "4th",
+      "cnic": "3520113977243",
+      "fatherName": "Muhmmad Saeed Bhatti",
+      "phone": "03004190264"
+    },
+    {
+      "id": "1af2",
+      "firstName": "Ahsan",
+      "lastName": "Khokhar",
+      "email": "ahsikhokha65@gmail.com",
+      "dob": "2004-12-07T19:00:00.000Z",
+      "gender": "male",
+      "degree": "Artificial Intelligence",
+      "semester": "1st",
+      "cnic": "3728618768157652",
+      "fatherName": "Muhammad Maneer",
+      "phone": "03224034163"
+    },
+    {
+      "id": "298e",
+      "firstName": "Mohsin",
+      "lastName": "Wazeer",
+      "email": "monabhaimbbs63@gmail.com",
+      "dob": "2016-07-03T19:00:00.000Z",
+      "gender": "male",
+      "degree": "Mass Communication",
+      "semester": "1st",
+      "cnic": "9273648236364",
+      "fatherName": "Muhammad Wazeer",
+      "phone": "03004190264"
+    }
+  ]
+}
